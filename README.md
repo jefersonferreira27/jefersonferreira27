@@ -2,7 +2,7 @@
 
 <p>
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas. E me tornando um <strong>desenvolvedor frontend</strong>. Sou apaixonado em criar aplicações web que possam contribuir para outras pessoas.
-</p><br>
+</p>
 
 
 ## Contato:
