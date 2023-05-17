@@ -12,7 +12,5 @@
 
 
 
-![html5-plain](https://github.com/jefersonferreira27/jefersonferreira27/assets/105617299/ff2df5fb-c18f-4fd6-8fd0-5dea76ff8f86)
-
 
 
