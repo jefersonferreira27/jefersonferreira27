@@ -10,7 +10,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonferreira27&layout=compact&theme=dark)](https://github.com/jefersonferreira27)
 
-![Legenda](C:\Users\jefer\OneDrive\Documentos\Programação web\Projetos\Portifólio - Bulma\portifolio\icons\devicon-master\icons\html5)
+
+<img src="/devicon-master/docs/assets/css/discord-logo.svg" alt="Texto Alternativo" width="300" height="200">
+
+
 
 
 
