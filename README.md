@@ -11,18 +11,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonferreira27&layout=compact&theme=dark)](https://github.com/jefersonferreira27)
 
 
-<img src="/devicon-master/docs/assets/css/discord-logo.svg" alt="Texto Alternativo" width="300" height="200">
 
-
-
-
-
-
-
-
-
-
-
+![html5-plain](https://github.com/jefersonferreira27/jefersonferreira27/assets/105617299/ff2df5fb-c18f-4fd6-8fd0-5dea76ff8f86)
 
 
 
