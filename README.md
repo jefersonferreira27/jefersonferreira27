@@ -1,7 +1,6 @@
 ## Seja bem vindo(a) ao meu perfil!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?![git-plain]
-username=jefersonferreira27&layout=compact&theme=dracula)](https://github.com/jefersonferreira27)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonferreira27&layout=compact&theme=dracula)](https://github.com/jefersonferreira27)
 
 ### Hard Skills:
 <div align="left">
