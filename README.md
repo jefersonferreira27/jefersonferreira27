@@ -1,6 +1,6 @@
 ## Seja bem vindo(a) ao meu perfil!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefersonferreira27)](https://github.com/jefersonferreira27)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonferreira27&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hard Skills:
 <div align="left">
