@@ -11,7 +11,7 @@ username=jefersonferreira27&layout=compact&theme=dracula)](https://github.com/je
     <img src="https://github.com/jefersonferreira27/jefersonferreira27/assets/105617299/9ab1861f-d4e4-4320-a1bf-b7538485b299" width = "50px"/>
     <img src ="https://github.com/jefersonferreira27/jefersonferreira27/assets/105617299/9952c068-755e-4360-b526-8c776a0320fb" width = "50px"/>
    
-</div>![git-plain]
+</div>
 
 <br>
 
