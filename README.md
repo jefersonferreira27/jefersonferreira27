@@ -1,11 +1,9 @@
+Frontend Developer & ADS Student.
 
-  <div align ="center">
-      <a href="https://mail.google.com/mail/u/0/#inbox" alt="Gmail">
-      <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=" /></a>
-      <a href="https://www.linkedin.com/in/jeferson-ferreira-934abb234/" alt="Linkedin">
-      <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" /></a>
+[![Twitter Badge](https://img.shields.io/badge/-@jeffszo-1d3557?style=flat-square&labelColor=9DFF&logo=twitter&logoColor=white&link=https://twitter.com/jeffszo7)](https://twitter.com/jeffszo7) 
+[![Linkedin Badge](https://img.shields.io/badge/-Jeferson%20Ferreira-1d3557?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/jeferson-ferreira-934abb234/) 
+[![Gmail Badge](https://img.shields.io/badge/-jeferreirasouza7@gmail.com-1d3557?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeferreirasouza7@gmail.com)](mailto:jeferreirasouza7@gmail.com)
 
-  </div>
 
     
 
